@@ -1,0 +1,11 @@
+{
+	"ownername":"DickyGANz",
+	"ownernumber":"6282118862838",
+	"botname":"Dicky-Bot",
+	"thumbnail":"./settings/haruka.jpg",
+	"limit": {
+		"free":20,
+		"premium":1000
+	},
+	"session_name":"./session.json"
+}
